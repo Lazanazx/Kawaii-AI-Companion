@@ -41,14 +41,15 @@ That's it~ No accounts. No API keys. Nothing else.
 
 ## 🚀 How to Install
 
-**1. Download the file**
+**1. git clone https://github.com/Lazanazx/Kawaii-AI-Companion.git**
 
 Save `cutenime_locked.py` to your Termux home folder
 
 **2. Run it**
 
-```bash
-python3 cutenime_locked.py
+```
+cd Kawaii-AI-Companion
+python3 cutenime.py
 ```
 
 **3. Set your AI's name**
