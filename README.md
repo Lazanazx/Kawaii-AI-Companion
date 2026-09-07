@@ -30,6 +30,7 @@ Perfect for when you're **bored** and want a fun coding buddy in your pocket �
 > Termux only — Android
 
 ```bash
+termux-setup-storage
 pkg update && pkg upgrade
 pkg install python
 pip install requests
@@ -42,8 +43,6 @@ That's it~ No accounts. No API keys. Nothing else.
 ## 🚀 How to Install
 
 **1. git clone https://github.com/Lazanazx/Kawaii-AI-Companion.git**
-
-Save `cutenime_locked.py` to your Termux home folder
 
 **2. Run it**
 
